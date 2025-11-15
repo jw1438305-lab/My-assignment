@@ -1,3 +1,4 @@
+//JAMES WILSON NCE/NG/SCI/180/23
 //declaring a scanner library
 import java.util.Scanner;
 
@@ -33,3 +34,4 @@ public class CompureAvarage {
     }
     
 }
+
